@@ -2,7 +2,7 @@
 
 This is a Flask (Python) application that auto-detects local weather based off of user's external IP address and weather of the city user enters.
 
-<img src="https://github.com/Kool-Saurav/Flask_Weather_project/blob/master/static/images/weather_example.png">
+<img src="https://github.com/Kool-Saurav/Flask_Weather_app/blob/master/static/images/weather_example.png">
 _Example screenshot of Flask Wearther app application_
 
 ## Setup
